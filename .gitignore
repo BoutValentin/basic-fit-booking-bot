@@ -1,0 +1,6 @@
+.env*
+!.env.example
+**/.DS_STORE
+__pycache__
+**-env
+
